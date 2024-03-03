@@ -1,6 +1,8 @@
 # AI Image Insight Explorer
 
-## Demo Link: https://ai-image-describer-geminiai-app.streamlit.app/
+## Demo Link: 
+
+https://ai-image-describer-geminiai-app.streamlit.app/
 
 ## Technology Stack:
 
